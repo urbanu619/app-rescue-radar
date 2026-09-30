@@ -8,7 +8,6 @@ permalink: /app-rescue-radar/
 
 **Josh — App Rescue** · operated by **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
-
 **Find abandoned or underperforming micro Apps and SaaS. Verify what is real. Rescue what is worth keeping.**
 
 Not a brokerage. Not a “guaranteed ROI” tip sheet. An analysis and execution layer **on top of** public marketplaces.
@@ -80,16 +79,4 @@ Read the free tools first:
 **Email:** urbanu619@gmail.com  
 **About / proof of delivery:** [About Joshua Chen]({{ site.baseurl }}{% link about.md %}) · GitHub [urbanu619](https://github.com/urbanu619)
 
-Preferred deal shape early on: roughly mid three-figures to low five-figures USD check sizes, some revenue or distribution, non-gray, clear asset boundaries — then expand.
-
----
-
-## Name bag (same idea)
-
-App Rescue Radar · Startup Salvage · Project Rescue · Micro Acquisition Radar
-
----
-
-## Source note (maintainers)
-
-Positioning from internal App Rescue Radar notes (discovery + trust + rescue). Monetization layers per 2026-09-30 carrier decision: cashflow and managed ops first; advisory/brokerage only after track record and compliance review.
+Best fit: deals from roughly mid three figures to low five figures USD, with some revenue or distribution, no gray-area business model, and clear asset boundaries.

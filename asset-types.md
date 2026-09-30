@@ -8,7 +8,6 @@ permalink: /asset-types/
 
 By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
-
 Marketplaces mix three different things under one "SaaS for sale" headline. Mix up the type, and you will apply the wrong valuation, the wrong diligence, and the wrong post-close plan.
 
 Classify first. Diligence second. Bid last.
@@ -152,19 +151,13 @@ That is a **custom build** problem:
 
 - Custom product build: urbanu619@gmail.com
 - Rescue / takeover engineering on a Type A/B with ugly code: urbanu619@gmail.com
-- Intake: *[App Rescue Radar — coming soon]*
+- Intake: [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %})
 
 Related:
 
 - [Due diligence checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %})
 - [Cost of taking over a codebase]({{ site.baseurl }}{% link codebase-takeover-cost.md %})
 - [What not to buy]({{ site.baseurl }}{% link what-not-to-buy.md %})
-
----
-
-## Source note (maintainers)
-
-Derived from internal research on asset taxonomy and "worth buying" criteria. No listing prices or current market multiple bands included on this page.
 
 <script type="application/ld+json">
 {

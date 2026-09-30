@@ -8,7 +8,6 @@ permalink: /what-not-to-buy/
 
 By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
-
 Most bad acquisitions fail the same way: the screenshot looked fine, the transfer did not, and the revenue depended on a rule the platform can change overnight.
 
 Use this as a **kill list** before deep diligence. Pair it with the [full checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %}). One hard fail is enough to walk or reprice as scrap.
@@ -117,7 +116,7 @@ That is a product signal, not a personal failure. Many buyers discover they need
 
 - Custom build / rescue engineering: urbanu619@gmail.com
 - Managed ops after a clean close: urbanu619@gmail.com
-- Intake: *[App Rescue Radar — coming soon]*
+- Intake: [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %})
 
 Related:
 
@@ -128,9 +127,3 @@ Related:
 - [Why micro-SaaS multiples look "cheap"]({{ site.baseurl }}{% link valuation-multiples.md %})
 
 This page is a screening framework, not legal advice.
-
----
-
-## Source note (maintainers)
-
-Derived from internal research on first-round exclusions and diligence red flags. Examples are types, not verified live listings. No seller financials included.

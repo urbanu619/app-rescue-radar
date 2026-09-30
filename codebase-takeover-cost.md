@@ -8,7 +8,6 @@ permalink: /codebase-takeover-cost/
 
 By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
-
 The listing price is not what you pay. After close you inherit: a deploy you cannot reproduce, secrets you must rotate, a store transfer that takes weeks, and a product that only the seller knows how to baby-sit.
 
 This companion expands the **technical** and **store** sections of the [acquisition due diligence checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %}). It is a cost model, not a quote. Use it to decide whether you are buying a business, buying a rewrite, or walking away.
@@ -152,7 +151,7 @@ If the checklist already told you the deal is fixable but heavy:
 
 - Rescue engineering / codebase takeover: urbanu619@gmail.com
 - Post-close managed operations: urbanu619@gmail.com
-- Intake brief: *[App Rescue Radar — coming soon]*
+- Intake brief: [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %})
 
 Related:
 
@@ -161,9 +160,3 @@ Related:
 - [Three asset types]({{ site.baseurl }}{% link asset-types.md %})
 
 This page is a planning framework. It is not a fixed-price quote and does not replace legal, security, or tax advice.
-
----
-
-## Source note (maintainers)
-
-Derived from internal research on technical diligence, store transfer, transferable assets, and scoring dimensions. No seller financials or platform fee tables included. Re-check store transfer and payment-provider policies on publish day.

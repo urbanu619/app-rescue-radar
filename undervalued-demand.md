@@ -8,7 +8,6 @@ permalink: /undervalued-demand/
 
 By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
-
 Undervalued demand is not “a cool idea.” It is a repeated complaint with weak supply, or a failed product whose **job** still exists.
 
 This is a research method. After you find a signal, route through [buy or build]({{ site.baseurl }}{% link buy-or-build.md %}) — many “new ideas” already have a dying listing attached.
@@ -103,9 +102,3 @@ If you want periodic cards already filtered for “real complaint + path hint”
 - Screening layer: [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %})
 
 Hub: [Buy or build]({{ site.baseurl }}{% link buy-or-build.md %})
-
----
-
-## Source note (maintainers)
-
-Method distilled from internal notes on vertical radars and failure-data value. Third-party product internals omitted on purpose.

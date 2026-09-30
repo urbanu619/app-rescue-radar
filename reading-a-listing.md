@@ -8,7 +8,6 @@ permalink: /reading-a-listing/
 
 By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
-
 Marketplace pages are sales pages. The job is not to memorize six famous deals — it is to recognize **patterns** that keep reappearing.
 
 This is a method demo. No named listings, no exact ask prices, no seller-reported profit figures. For kill signals in checklist form, see [what not to buy]({{ site.baseurl }}{% link what-not-to-buy.md %}). For type mix-ups, see [three asset types]({{ site.baseurl }}{% link asset-types.md %}).
@@ -134,9 +133,3 @@ Until then, trust the pattern logic more than any one tombstone.
 - [Due diligence checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %})
 - [Exclusion signals]({{ site.baseurl }}{% link what-not-to-buy.md %})
 - Screening / rescue: [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %}) · urbanu619@gmail.com
-
----
-
-## Source note (maintainers)
-
-Judgment patterns adapted from internal case-snapshot *lessons* (research draft §7). Exact snapshot financials intentionally omitted pending re-verification.

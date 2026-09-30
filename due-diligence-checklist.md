@@ -8,7 +8,6 @@ permalink: /due-diligence-checklist/
 
 By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
-
 Buying a small App or micro-SaaS is not like buying a house. Ownership is scattered across code, domains, trademarks, store accounts, payment rails, API keys, and personal inboxes. If any one of those does not transfer cleanly, you did not buy a business — you bought a liability with a login screen.
 
 Use this checklist before you wire money. Treat every unchecked box as a negotiation point or a walk-away reason.
@@ -223,15 +222,9 @@ If you already own a listing — or you are about to — and the gap is engineer
 
 - Custom rebuild / rescue engineering: urbanu619@gmail.com
 - Managed operations after close: urbanu619@gmail.com
-- Product brief / intake: *[App Rescue Radar — coming soon]*
+- Product brief / intake: [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %})
 
 This checklist is a screening tool. It does not replace legal, tax, security, or financial advice for your jurisdiction.
-
----
-
-## Source note (maintainers)
-
-Derived from internal research sections on transferable assets and acquisition diligence. No listing prices, platform fee tables, or seller-reported multiples are included in this page. Revisit store transfer rules and payment-provider policies on the day you publish or reuse.
 
 <script type="application/ld+json">
 {

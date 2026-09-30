@@ -8,7 +8,6 @@ permalink: /buy-or-build/
 
 By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
-
 Most indie founders ask the wrong first question ("What should I build?"). The real decision is:
 
 ```text
@@ -151,12 +150,6 @@ BUY / RESCUE
 **Build cluster:** [worth building]({{ site.baseurl }}{% link worth-building.md %}) · [idea pool]({{ site.baseurl }}{% link niche-idea-pool.md %}) · [undervalued demand]({{ site.baseurl }}{% link undervalued-demand.md %})
 
 **Help executing:** [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %}) — screening, rescue engineering, managed ops. Email: urbanu619@gmail.com
-
----
-
-## Source note (maintainers)
-
-Hub framing from internal research on opportunity radar, marketplaces, worth-buying criteria, and product phases. No live listing financials on this page.
 
 <script type="application/ld+json">
 {

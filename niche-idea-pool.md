@@ -8,7 +8,6 @@ permalink: /niche-idea-pool/
 
 By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
-
 These are **wedges to investigate**, not market-proven winners. For each idea: run the [worth-building filter]({{ site.baseurl }}{% link worth-building.md %}), then [buy or build]({{ site.baseurl }}{% link buy-or-build.md %}) — someone may already be selling a weak version.
 
 ---
@@ -76,9 +75,3 @@ Ship **one sharp front door**, not a vague “life OS.”
 4. Decide with [buy or build]({{ site.baseurl }}{% link buy-or-build.md %}).
 
 Weekly filtered ideas: urbanu619@gmail.com · Execution help: [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %})
-
----
-
-## Source note (maintainers)
-
-Translated/adapted from an internal opportunity pool. Not market validation. No revenue claims.
