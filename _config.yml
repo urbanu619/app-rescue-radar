@@ -1,0 +1,8 @@
+title: App Rescue Radar
+description: Buy, rescue, or build small Apps and micro-SaaS — diligence notes for indie developers.
+author: Joshua Chen
+markdown: kramdown
+highlighter: rouge
+exclude:
+  - Gemfile
+  - Gemfile.lock
