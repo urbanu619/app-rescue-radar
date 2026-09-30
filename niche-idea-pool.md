@@ -1,9 +1,15 @@
+---
+title: "30+ Niche App Ideas (Opportunity Pool)"
+description: "An opportunity pool of vertical App wedges to investigate—not market validation—plus shared technical substrates."
+permalink: /niche-idea-pool/
+---
+
 # 30+ Niche App Ideas (Opportunity Pool, Not Validation)
 
-By **Joshua Chen** · [About / experience](2026-09-30-about-joshua-chen.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
 
 
-These are **wedges to investigate**, not market-proven winners. For each idea: run the [worth-building filter](2026-09-30-B1-what-counts-as-a-niche-app-worth-building.md), then [buy or build](2026-09-30-A0-buy-or-build-decision-framework.md) — someone may already be selling a weak version.
+These are **wedges to investigate**, not market-proven winners. For each idea: run the [worth-building filter](worth-building.md), then [buy or build](buy-or-build.md) — someone may already be selling a weak version.
 
 ---
 
@@ -65,11 +71,11 @@ Ship **one sharp front door**, not a vague “life OS.”
 ## How to use this list
 
 1. Pick one row that matches a channel you already reach.
-2. Attach real complaint URLs ([demand methods](2026-09-30-B3-how-to-find-undervalued-demand.md)).
-3. Search marketplaces for a weak Type A/B before you scaffold ([where to buy](2026-09-30-A5-where-to-buy-sunset-apps-and-saas.md)).
-4. Decide with [buy or build](2026-09-30-A0-buy-or-build-decision-framework.md).
+2. Attach real complaint URLs ([demand methods](undervalued-demand.md)).
+3. Search marketplaces for a weak Type A/B before you scaffold ([where to buy](where-to-buy.md)).
+4. Decide with [buy or build](buy-or-build.md).
 
-Weekly filtered ideas: urbanu619@gmail.com · Execution help: [App Rescue Radar](2026-09-30-C1-app-rescue-radar.md)
+Weekly filtered ideas: urbanu619@gmail.com · Execution help: [App Rescue Radar](app-rescue-radar.md)
 
 ---
 

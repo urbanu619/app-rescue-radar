@@ -1,0 +1,3 @@
+Deploy working copy for https://github.com/urbanu619/app-rescue-radar
+Do not treat this nested git dir as the product-research source of truth.
+Source drafts live one directory up; push from here only when syncing the public repo.

@@ -18,3 +18,5 @@ Allow: /
 
 User-agent: Google-Extended
 Allow: /
+
+Sitemap: https://urbanu619.github.io/app-rescue-radar/sitemap.xml

@@ -1,11 +1,17 @@
+---
+title: "How to Read a Listing Without Believing the Screenshot"
+description: "Six recurring marketplace listing patterns for micro Apps—method demo without named financials."
+permalink: /reading-a-listing/
+---
+
 # How to Read a Listing Without Believing the Screenshot
 
-By **Joshua Chen** · [About / experience](2026-09-30-about-joshua-chen.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
 
 
 Marketplace pages are sales pages. The job is not to memorize six famous deals — it is to recognize **patterns** that keep reappearing.
 
-This is a method demo. No named listings, no exact ask prices, no seller-reported profit figures. For kill signals in checklist form, see [what not to buy](2026-09-30-A3-what-not-to-buy-high-risk-signals.md). For type mix-ups, see [three asset types](2026-09-30-A4-three-asset-types-you-must-not-mix.md).
+This is a method demo. No named listings, no exact ask prices, no seller-reported profit figures. For kill signals in checklist form, see [what not to buy](what-not-to-buy.md). For type mix-ups, see [three asset types](asset-types.md).
 
 ---
 
@@ -46,7 +52,7 @@ This is a method demo. No named listings, no exact ask prices, no seller-reporte
 - Low multiple is a **signal**, not a coupon. Sellers discount for a reason: scrape risk, API fragility, AI COGS, concentration, or a cliff you have not seen.
 - Split “revenue” into profit, annual prepay cliffs, refunds, and trend before you celebrate.
 
-**Diligence focus:** data source legality, API/cost stack, cohort trend. Then re-read [why multiples compress](2026-09-30-A6-why-micro-saas-sells-at-low-arr-multiples.md).
+**Diligence focus:** data source legality, API/cost stack, cohort trend. Then re-read [why multiples compress](valuation-multiples.md).
 
 ---
 
@@ -88,7 +94,7 @@ This is a method demo. No named listings, no exact ask prices, no seller-reporte
 - Underwrite with rebuild cost and transfer friction only.
 - Never import ARR-multiple language.
 
-**Diligence focus:** code quality, license cleanliness, whether the store entry can move. See [codebase takeover costs](2026-09-30-A2-cost-of-taking-over-someone-elses-codebase.md).
+**Diligence focus:** code quality, license cleanliness, whether the store entry can move. See [codebase takeover costs](codebase-takeover-cost.md).
 
 ---
 
@@ -125,9 +131,9 @@ Until then, trust the pattern logic more than any one tombstone.
 
 ## Next
 
-- [Due diligence checklist](2026-09-30-A1-micro-app-acquisition-due-diligence-checklist.md)
-- [Exclusion signals](2026-09-30-A3-what-not-to-buy-high-risk-signals.md)
-- Screening / rescue: [App Rescue Radar](2026-09-30-C1-app-rescue-radar.md) · urbanu619@gmail.com
+- [Due diligence checklist](due-diligence-checklist.md)
+- [Exclusion signals](what-not-to-buy.md)
+- Screening / rescue: [App Rescue Radar](app-rescue-radar.md) · urbanu619@gmail.com
 
 ---
 

@@ -1,11 +1,17 @@
+---
+title: "How to Find Undervalued Demand"
+description: "Use complaint clusters and failure data to find undervalued App demand before you buy or build."
+permalink: /undervalued-demand/
+---
+
 # How to Find Undervalued Demand (Before You Build or Buy)
 
-By **Joshua Chen** · [About / experience](2026-09-30-about-joshua-chen.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
 
 
 Undervalued demand is not “a cool idea.” It is a repeated complaint with weak supply, or a failed product whose **job** still exists.
 
-This is a research method. After you find a signal, route through [buy or build](2026-09-30-A0-buy-or-build-decision-framework.md) — many “new ideas” already have a dying listing attached.
+This is a research method. After you find a signal, route through [buy or build](buy-or-build.md) — many “new ideas” already have a dying listing attached.
 
 ---
 
@@ -50,7 +56,7 @@ Platform / legal risk
 Is something already for sale that maps to this job?
 ```
 
-If the last line is “yes,” open the [marketplace guide](2026-09-30-A5-where-to-buy-sunset-apps-and-saas.md) before you open Figma.
+If the last line is “yes,” open the [marketplace guide](where-to-buy.md) before you open Figma.
 
 ---
 
@@ -75,8 +81,8 @@ Strong complaint cluster
   └─ No inventory, clear MVP + channel? → build
 ```
 
-Worth-building filter (when you choose build): [ship criteria](2026-09-30-B1-what-counts-as-a-niche-app-worth-building.md).  
-Idea sparks (not validation): [idea pool](2026-09-30-B2-niche-app-idea-pool.md).
+Worth-building filter (when you choose build): [ship criteria](worth-building.md).  
+Idea sparks (not validation): [idea pool](niche-idea-pool.md).
 
 ---
 
@@ -85,7 +91,7 @@ Idea sparks (not validation): [idea pool](2026-09-30-B2-niche-app-idea-pool.md).
 - Generating ideas with no complaint URL attached
 - Treating “AI for X” as a niche without a workflow
 - Ignoring platform risk because the scrape “works today”
-- Falling in love with a cemetery story and skipping [exclusions](2026-09-30-A3-what-not-to-buy-high-risk-signals.md)
+- Falling in love with a cemetery story and skipping [exclusions](what-not-to-buy.md)
 
 ---
 
@@ -94,9 +100,9 @@ Idea sparks (not validation): [idea pool](2026-09-30-B2-niche-app-idea-pool.md).
 If you want periodic cards already filtered for “real complaint + path hint”:
 
 - Weekly notes: urbanu619@gmail.com
-- Screening layer: [App Rescue Radar](2026-09-30-C1-app-rescue-radar.md)
+- Screening layer: [App Rescue Radar](app-rescue-radar.md)
 
-Hub: [Buy or build](2026-09-30-A0-buy-or-build-decision-framework.md)
+Hub: [Buy or build](buy-or-build.md)
 
 ---
 

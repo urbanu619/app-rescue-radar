@@ -2,13 +2,18 @@
 > Public diligence and buy-or-build notes for micro Apps and micro-SaaS.
 
 ## Primary
-- [Buy or build](2026-09-30-A0-buy-or-build-decision-framework.md)
-- [Due diligence checklist](2026-09-30-A1-micro-app-acquisition-due-diligence-checklist.md)
-- [Three asset types](2026-09-30-A4-three-asset-types-you-must-not-mix.md)
-- [App Rescue Radar](2026-09-30-C1-app-rescue-radar.md)
-- [About Joshua Chen](2026-09-30-about-joshua-chen.md)
+- [https://urbanu619.github.io/app-rescue-radar/buy-or-build/](https://urbanu619.github.io/app-rescue-radar/buy-or-build/)
+- [https://urbanu619.github.io/app-rescue-radar/due-diligence-checklist/](https://urbanu619.github.io/app-rescue-radar/due-diligence-checklist/)
+- [https://urbanu619.github.io/app-rescue-radar/asset-types/](https://urbanu619.github.io/app-rescue-radar/asset-types/)
+- [https://urbanu619.github.io/app-rescue-radar/app-rescue-radar/](https://urbanu619.github.io/app-rescue-radar/app-rescue-radar/)
+- [https://urbanu619.github.io/app-rescue-radar/about/](https://urbanu619.github.io/app-rescue-radar/about/)
 
 ## Optional
-- [Codebase takeover cost](2026-09-30-A2-cost-of-taking-over-someone-elses-codebase.md)
-- [What not to buy](2026-09-30-A3-what-not-to-buy-high-risk-signals.md)
-- [Marketplaces](2026-09-30-A5-where-to-buy-sunset-apps-and-saas.md)
+- [https://urbanu619.github.io/app-rescue-radar/codebase-takeover-cost/](https://urbanu619.github.io/app-rescue-radar/codebase-takeover-cost/)
+- [https://urbanu619.github.io/app-rescue-radar/what-not-to-buy/](https://urbanu619.github.io/app-rescue-radar/what-not-to-buy/)
+- [https://urbanu619.github.io/app-rescue-radar/where-to-buy/](https://urbanu619.github.io/app-rescue-radar/where-to-buy/)
+- [https://urbanu619.github.io/app-rescue-radar/valuation-multiples/](https://urbanu619.github.io/app-rescue-radar/valuation-multiples/)
+- [https://urbanu619.github.io/app-rescue-radar/reading-a-listing/](https://urbanu619.github.io/app-rescue-radar/reading-a-listing/)
+- [https://urbanu619.github.io/app-rescue-radar/worth-building/](https://urbanu619.github.io/app-rescue-radar/worth-building/)
+- [https://urbanu619.github.io/app-rescue-radar/niche-idea-pool/](https://urbanu619.github.io/app-rescue-radar/niche-idea-pool/)
+- [https://urbanu619.github.io/app-rescue-radar/undervalued-demand/](https://urbanu619.github.io/app-rescue-radar/undervalued-demand/)

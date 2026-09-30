@@ -1,6 +1,12 @@
+---
+title: "Three Asset Types You Must Not Price the Same Way"
+description: "Type A operating business, Type B distribution, and Type C source-only—how to classify marketplace listings before you bid."
+permalink: /asset-types/
+---
+
 # Three Asset Types You Must Not Price the Same Way
 
-By **Joshua Chen** · [About / experience](2026-09-30-about-joshua-chen.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
 
 
 Marketplaces mix three different things under one "SaaS for sale" headline. Mix up the type, and you will apply the wrong valuation, the wrong diligence, and the wrong post-close plan.
@@ -46,7 +52,7 @@ No. That is Type C. Treat it as software and listing experience, not as SaaS pri
 
 **Wrong move:** treating it like a source dump because the UI is ugly.
 
-**Right diligence weight:** finance + retention + transfer (full [checklist](2026-09-30-A1-micro-app-acquisition-due-diligence-checklist.md)).
+**Right diligence weight:** finance + retention + transfer (full [checklist](due-diligence-checklist.md)).
 
 ---
 
@@ -64,7 +70,7 @@ No. That is Type C. Treat it as software and listing experience, not as SaaS pri
 
 **Wrong move:** paying a business multiple for "potential" with no payers.
 
-**Right diligence weight:** distribution quality + transfer + your fix plan ([codebase cost](2026-09-30-A2-cost-of-taking-over-someone-elses-codebase.md) only for what you will keep).
+**Right diligence weight:** distribution quality + transfer + your fix plan ([codebase cost](codebase-takeover-cost.md) only for what you will keep).
 
 ---
 
@@ -130,7 +136,7 @@ Else if verified transferable distribution → underwrite as B
 Else → underwrite as C (rebuild lens only)
 ```
 
-Then run type-appropriate diligence. Use the [exclusion list](2026-09-30-A3-what-not-to-buy-high-risk-signals.md) before you fall in love with the demo.
+Then run type-appropriate diligence. Use the [exclusion list](what-not-to-buy.md) before you fall in love with the demo.
 
 Multiples and "why prices look low" are a separate topic *(A6, after light verification)*. Do not borrow a multiple until the type is A and the profit is real.
 
@@ -150,12 +156,54 @@ That is a **custom build** problem:
 
 Related:
 
-- [Due diligence checklist](2026-09-30-A1-micro-app-acquisition-due-diligence-checklist.md)
-- [Cost of taking over a codebase](2026-09-30-A2-cost-of-taking-over-someone-elses-codebase.md)
-- [What not to buy](2026-09-30-A3-what-not-to-buy-high-risk-signals.md)
+- [Due diligence checklist](due-diligence-checklist.md)
+- [Cost of taking over a codebase](codebase-takeover-cost.md)
+- [What not to buy](what-not-to-buy.md)
 
 ---
 
 ## Source note (maintainers)
 
 Derived from internal research on asset taxonomy and "worth buying" criteria. No listing prices or current market multiple bands included on this page.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the three asset types when buying a micro-SaaS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Type A (operating business), Type B (distribution without monetization), and Type C (source / finished product without proof of use)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why can't you use the same valuation for all three?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Type A is priced on durable profit and risk. Type B is priced on transferable attention plus your monetization plan. Type C is priced on rebuild and time-to-ship. Mixing them is how buyers overpay."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you classify a listing quickly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If verified recurring revenue and retention exist → A. Else if verified transferable distribution exists → B. Else → C."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a \"dev complete\" App with no users a business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. That is Type C. Treat it as software and listing experience, not as SaaS priced on multiples."
+      }
+    }
+  ],
+  "url": "https://urbanu619.github.io/app-rescue-radar/asset-types/"
+}
+</script>

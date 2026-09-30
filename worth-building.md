@@ -1,11 +1,17 @@
+---
+title: "What Counts as a Niche App Worth Building"
+description: "A filter for niche App ideas: sharp user, repeating job, monetization hooks, and bounded platform risk."
+permalink: /worth-building/
+---
+
 # What Counts as a Niche App Worth Building
 
-By **Joshua Chen** · [About / experience](2026-09-30-about-joshua-chen.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
 
 
 “Niche” does not mean tiny forever or weird for its own sake. A build-worthy niche usually has a sharp user, a repeating job, and a path to charge without a social network on day one.
 
-Use this filter before you open an IDE — and before you fall in love with a marketplace zip. Hub: [buy or build](2026-09-30-A0-buy-or-build-decision-framework.md).
+Use this filter before you open an IDE — and before you fall in love with a marketplace zip. Hub: [buy or build](buy-or-build.md).
 
 ---
 
@@ -56,8 +62,8 @@ Two or more weak answers → park the idea or shrink the wedge.
 
 ## After it passes
 
-1. Check whether inventory already maps to the job ([marketplaces](2026-09-30-A5-where-to-buy-sunset-apps-and-saas.md)) — buy may beat build.
-2. Mine complaints with [undervalued demand methods](2026-09-30-B3-how-to-find-undervalued-demand.md).
-3. Skim the [idea pool](2026-09-30-B2-niche-app-idea-pool.md) for patterns, not for copy-paste validation.
+1. Check whether inventory already maps to the job ([marketplaces](where-to-buy.md)) — buy may beat build.
+2. Mine complaints with [undervalued demand methods](undervalued-demand.md).
+3. Skim the [idea pool](niche-idea-pool.md) for patterns, not for copy-paste validation.
 
 Weekly niche signals: urbanu619@gmail.com

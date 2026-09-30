@@ -1,8 +1,19 @@
 title: App Rescue Radar
 description: Buy, rescue, or build small Apps and micro-SaaS — diligence notes for indie developers.
 author: Joshua Chen
+url: https://urbanu619.github.io
+baseurl: /app-rescue-radar
 markdown: kramdown
 highlighter: rouge
+plugins:
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
 exclude:
   - Gemfile
   - Gemfile.lock
+  - .gitkeep_note

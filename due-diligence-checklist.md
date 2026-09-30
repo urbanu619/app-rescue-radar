@@ -1,6 +1,12 @@
+---
+title: "Micro App Acquisition Due Diligence Checklist"
+description: "30+ pre-purchase checks for micro Apps and micro-SaaS: ownership, read-only revenue proof, store transfer, legal, and ops."
+permalink: /due-diligence-checklist/
+---
+
 # Micro App Acquisition Due Diligence Checklist (30+ Items)
 
-By **Joshua Chen** · [About / experience](2026-09-30-about-joshua-chen.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
 
 
 Buying a small App or micro-SaaS is not like buying a house. Ownership is scattered across code, domains, trademarks, store accounts, payment rails, API keys, and personal inboxes. If any one of those does not transfer cleanly, you did not buy a business — you bought a liability with a login screen.
@@ -207,9 +213,9 @@ If the checklist shows a fixable product with broken ownership or ops, that is o
 
 **Next reads**
 
-- [The real cost of taking over someone else's codebase](2026-09-30-A2-cost-of-taking-over-someone-elses-codebase.md)
-- [What not to buy: high-risk signals](2026-09-30-A3-what-not-to-buy-high-risk-signals.md)
-- [Three asset types you must not mix](2026-09-30-A4-three-asset-types-you-must-not-mix.md)
+- [The real cost of taking over someone else's codebase](codebase-takeover-cost.md)
+- [What not to buy: high-risk signals](what-not-to-buy.md)
+- [Three asset types you must not mix](asset-types.md)
 
 **Need help executing, not just checking boxes?**
 
@@ -226,3 +232,45 @@ This checklist is a screening tool. It does not replace legal, tax, security, or
 ## Source note (maintainers)
 
 Derived from internal research sections on transferable assets and acquisition diligence. No listing prices, platform fee tables, or seller-reported multiples are included in this page. Revisit store transfer rules and payment-provider policies on the day you publish or reuse.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should you check before buying a micro App or micro-SaaS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Confirm transferable ownership (code history, domain, store, subscriptions, data), read-only revenue proof, retention, legal/IP assignment, and that you can operate the product after the seller leaves."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are screenshots not enough?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They are marketing artifacts. Read-only verification against payment and store dashboards is what underwrites revenue and refunds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the fastest way to kill a bad listing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Run ownership and money first. If the seller blocks read-only access, or critical accounts are personal-only and non-assignable, walk or reprice as source code."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does this checklist replace a lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. It is a buyer screening tool for indie and small-studio deals. It does not replace legal, tax, or security advice in your jurisdiction."
+      }
+    }
+  ],
+  "url": "https://urbanu619.github.io/app-rescue-radar/due-diligence-checklist/"
+}
+</script>

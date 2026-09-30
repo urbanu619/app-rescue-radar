@@ -1,3 +1,9 @@
+---
+title: "About Joshua Chen"
+description: "Joshua Chen / Josh — App Rescue: indie developer notes and services for buying, rescuing, and building micro Apps."
+permalink: /about/
+---
+
 # About Joshua Chen
 
 Independent developer. I write about buying, rescuing, and building small Apps / micro-SaaS — and I take on the work when a listing is fixable but heavy.
@@ -46,4 +52,4 @@ Reply will be scoped — or a clear no.
 
 ## Writing on this site
 
-Start here: [Buy or build](2026-09-30-A0-buy-or-build-decision-framework.md) · [Due diligence checklist](2026-09-30-A1-micro-app-acquisition-due-diligence-checklist.md) · [App Rescue Radar](2026-09-30-C1-app-rescue-radar.md)
+Start here: [Buy or build](buy-or-build.md) · [Due diligence checklist](due-diligence-checklist.md) · [App Rescue Radar](app-rescue-radar.md)
