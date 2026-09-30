@@ -27,6 +27,8 @@ Run ownership and money first. If the seller blocks read-only access, or critica
 **Does this checklist replace a lawyer?**  
 No. It is a buyer screening tool for indie and small-studio deals. It does not replace legal, tax, or security advice in your jurisdiction.
 
+---
+
 **How to use it**
 
 1. Run sections 1–2 on every listing (ownership + money). Kill bad deals early.
