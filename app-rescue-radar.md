@@ -1,5 +1,5 @@
 ---
-title: "App Rescue Radar"
+title: "Screening, Rescue & Managed Ops for Micro Apps"
 description: "Screening, rescue engineering, and managed ops for abandoned or underperforming micro Apps and micro-SaaS."
 permalink: /app-rescue-radar/
 ---
