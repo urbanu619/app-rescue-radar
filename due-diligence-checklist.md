@@ -6,7 +6,7 @@ permalink: /due-diligence-checklist/
 
 # Micro App Acquisition Due Diligence Checklist (30+ Items)
 
-By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
 
 Buying a small App or micro-SaaS is not like buying a house. Ownership is scattered across code, domains, trademarks, store accounts, payment rails, API keys, and personal inboxes. If any one of those does not transfer cleanly, you did not buy a business — you bought a liability with a login screen.
@@ -213,9 +213,9 @@ If the checklist shows a fixable product with broken ownership or ops, that is o
 
 **Next reads**
 
-- [The real cost of taking over someone else's codebase](codebase-takeover-cost.md)
-- [What not to buy: high-risk signals](what-not-to-buy.md)
-- [Three asset types you must not mix](asset-types.md)
+- [The real cost of taking over someone else's codebase]({{ site.baseurl }}{% link codebase-takeover-cost.md %})
+- [What not to buy: high-risk signals]({{ site.baseurl }}{% link what-not-to-buy.md %})
+- [Three asset types you must not mix]({{ site.baseurl }}{% link asset-types.md %})
 
 **Need help executing, not just checking boxes?**
 

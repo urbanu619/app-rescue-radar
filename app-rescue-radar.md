@@ -6,7 +6,7 @@ permalink: /app-rescue-radar/
 
 # App Rescue Radar
 
-**Josh — App Rescue** · operated by **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
+**Josh — App Rescue** · operated by **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
 
 **Find abandoned or underperforming micro Apps and SaaS. Verify what is real. Rescue what is worth keeping.**
@@ -47,7 +47,7 @@ Scoring dimensions (filters, not magic totals): distribution, revenue quality, u
 
 ### 2. Rescue engineering
 
-When the asset is Type A/B but the codebase or migration is the blocker — takeover, stabilize, rewrite the lethal parts. See the cost framing in [taking over a codebase](codebase-takeover-cost.md).
+When the asset is Type A/B but the codebase or migration is the blocker — takeover, stabilize, rewrite the lethal parts. See the cost framing in [taking over a codebase]({{ site.baseurl }}{% link codebase-takeover-cost.md %}).
 
 ### 3. Managed operations
 
@@ -65,9 +65,9 @@ After close: monitoring, dependency hygiene, support load, release cadence — t
 
 Read the free tools first:
 
-- [Due diligence checklist](due-diligence-checklist.md)
-- [What not to buy](what-not-to-buy.md)
-- [Buy or build hub](buy-or-build.md)
+- [Due diligence checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %})
+- [What not to buy]({{ site.baseurl }}{% link what-not-to-buy.md %})
+- [Buy or build hub]({{ site.baseurl }}{% link buy-or-build.md %})
 
 ---
 
@@ -78,7 +78,7 @@ Read the free tools first:
 3. Get a scoped reply — or a clear no.
 
 **Email:** urbanu619@gmail.com  
-**About / proof of delivery:** [About Joshua Chen](about.md) · GitHub [urbanu619](https://github.com/urbanu619)
+**About / proof of delivery:** [About Joshua Chen]({{ site.baseurl }}{% link about.md %}) · GitHub [urbanu619](https://github.com/urbanu619)
 
 Preferred deal shape early on: roughly mid three-figures to low five-figures USD check sizes, some revenue or distribution, non-gray, clear asset boundaries — then expand.
 

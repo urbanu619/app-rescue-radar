@@ -8,36 +8,36 @@ permalink: /
 
 Public notes for indie developers who buy, rescue, or build small Apps and micro-SaaS.
 
-**Author:** [Joshua Chen](about.md) · urbanu619@gmail.com  
-**Start here:** [Buy or build](buy-or-build.md) · [Due diligence checklist](due-diligence-checklist.md)
+**Author:** [Joshua Chen]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com  
+**Start here:** [Buy or build]({{ site.baseurl }}{% link buy-or-build.md %}) · [Due diligence checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %})
 
 ## Buy cluster
 
 | Page | Topic |
 | --- | --- |
-| [Buy or build](buy-or-build.md) | Decision hub |
-| [Due diligence checklist](due-diligence-checklist.md) | 30+ pre-purchase checks |
-| [Codebase takeover cost](codebase-takeover-cost.md) | Migration and debt beyond asking price |
-| [What not to buy](what-not-to-buy.md) | High-risk listing signals |
-| [Asset types](asset-types.md) | Type A / B / C |
-| [Where to buy](where-to-buy.md) | Marketplace comparison |
-| [Valuation multiples](valuation-multiples.md) | Why multiples look “low” |
-| [Reading a listing](reading-a-listing.md) | Pattern method demo |
+| [Buy or build]({{ site.baseurl }}{% link buy-or-build.md %}) | Decision hub |
+| [Due diligence checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %}) | 30+ pre-purchase checks |
+| [Codebase takeover cost]({{ site.baseurl }}{% link codebase-takeover-cost.md %}) | Migration and debt beyond asking price |
+| [What not to buy]({{ site.baseurl }}{% link what-not-to-buy.md %}) | High-risk listing signals |
+| [Asset types]({{ site.baseurl }}{% link asset-types.md %}) | Type A / B / C |
+| [Where to buy]({{ site.baseurl }}{% link where-to-buy.md %}) | Marketplace comparison |
+| [Valuation multiples]({{ site.baseurl }}{% link valuation-multiples.md %}) | Why multiples look “low” |
+| [Reading a listing]({{ site.baseurl }}{% link reading-a-listing.md %}) | Pattern method demo |
 
 ## Build cluster
 
 | Page | Topic |
 | --- | --- |
-| [Worth building](worth-building.md) | Niche App filter |
-| [Niche idea pool](niche-idea-pool.md) | 30+ wedges to investigate |
-| [Undervalued demand](undervalued-demand.md) | Complaint and failure methods |
+| [Worth building]({{ site.baseurl }}{% link worth-building.md %}) | Niche App filter |
+| [Niche idea pool]({{ site.baseurl }}{% link niche-idea-pool.md %}) | 30+ wedges to investigate |
+| [Undervalued demand]({{ site.baseurl }}{% link undervalued-demand.md %}) | Complaint and failure methods |
 
 ## Conversion
 
 | Page | Topic |
 | --- | --- |
-| [App Rescue Radar](app-rescue-radar.md) | Screening, rescue, managed ops |
-| [About](about.md) | Proof of delivery and contact |
+| [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %}) | Screening, rescue, managed ops |
+| [About]({{ site.baseurl }}{% link about.md %}) | Proof of delivery and contact |
 
 ## License
 

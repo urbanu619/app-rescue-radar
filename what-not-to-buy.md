@@ -6,12 +6,12 @@ permalink: /what-not-to-buy/
 
 # What Not to Buy: High-Risk Signals on Micro App Listings
 
-By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
 
 Most bad acquisitions fail the same way: the screenshot looked fine, the transfer did not, and the revenue depended on a rule the platform can change overnight.
 
-Use this as a **kill list** before deep diligence. Pair it with the [full checklist](due-diligence-checklist.md). One hard fail is enough to walk or reprice as scrap.
+Use this as a **kill list** before deep diligence. Pair it with the [full checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %}). One hard fail is enough to walk or reprice as scrap.
 
 ---
 
@@ -47,7 +47,7 @@ Easy to copy, expensive to acquire users, low switching costs. Price as a weeken
 
 ### 4. "Dev complete" with zero proof of use
 
-UI, source zip, and marketing screenshots are **software assets**. They are not companies. Compare to rebuild cost ([codebase takeover costs](codebase-takeover-cost.md)); never apply revenue-multiple thinking ([asset types](asset-types.md)).
+UI, source zip, and marketing screenshots are **software assets**. They are not companies. Compare to rebuild cost ([codebase takeover costs]({{ site.baseurl }}{% link codebase-takeover-cost.md %})); never apply revenue-multiple thinking ([asset types]({{ site.baseurl }}{% link asset-types.md %})).
 
 ### 5. Gray revenue and fuzzy compliance
 
@@ -121,11 +121,11 @@ That is a product signal, not a personal failure. Many buyers discover they need
 
 Related:
 
-- [Due diligence checklist](due-diligence-checklist.md)
-- [Cost of taking over a codebase](codebase-takeover-cost.md)
-- [Three asset types](asset-types.md)
-- [Listing patterns (method demo)](reading-a-listing.md)
-- [Why micro-SaaS multiples look "cheap"](valuation-multiples.md)
+- [Due diligence checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %})
+- [Cost of taking over a codebase]({{ site.baseurl }}{% link codebase-takeover-cost.md %})
+- [Three asset types]({{ site.baseurl }}{% link asset-types.md %})
+- [Listing patterns (method demo)]({{ site.baseurl }}{% link reading-a-listing.md %})
+- [Why micro-SaaS multiples look "cheap"]({{ site.baseurl }}{% link valuation-multiples.md %})
 
 This page is a screening framework, not legal advice.
 

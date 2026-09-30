@@ -6,12 +6,12 @@ permalink: /codebase-takeover-cost/
 
 # The Real Cost of Taking Over Someone Else's Codebase
 
-By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
 
 The listing price is not what you pay. After close you inherit: a deploy you cannot reproduce, secrets you must rotate, a store transfer that takes weeks, and a product that only the seller knows how to baby-sit.
 
-This companion expands the **technical** and **store** sections of the [acquisition due diligence checklist](due-diligence-checklist.md). It is a cost model, not a quote. Use it to decide whether you are buying a business, buying a rewrite, or walking away.
+This companion expands the **technical** and **store** sections of the [acquisition due diligence checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %}). It is a cost model, not a quote. Use it to decide whether you are buying a business, buying a rewrite, or walking away.
 
 ---
 
@@ -109,7 +109,7 @@ Max bid ≈
 
 Never invert it: do not start from asking price and "make the costs fit."
 
-If verified recurring revenue is near zero, drop revenue multiples entirely. Compare to **rebuild cost** and **time-to-store** — that is a Type C asset ([three asset types](asset-types.md)).
+If verified recurring revenue is near zero, drop revenue multiples entirely. Compare to **rebuild cost** and **time-to-store** — that is a Type C asset ([three asset types]({{ site.baseurl }}{% link asset-types.md %})).
 
 ---
 
@@ -142,7 +142,7 @@ Walk when:
 
 - Nothing transfers except a zip
 - Growth dies without the seller's face
-- The product depends on scraping, gray IP, or a platform loophole ([exclusion list](what-not-to-buy.md))
+- The product depends on scraping, gray IP, or a platform loophole ([exclusion list]({{ site.baseurl }}{% link what-not-to-buy.md %}))
 
 ---
 
@@ -156,9 +156,9 @@ If the checklist already told you the deal is fixable but heavy:
 
 Related:
 
-- [Due diligence checklist (30+)](due-diligence-checklist.md)
-- [What not to buy](what-not-to-buy.md)
-- [Three asset types](asset-types.md)
+- [Due diligence checklist (30+)]({{ site.baseurl }}{% link due-diligence-checklist.md %})
+- [What not to buy]({{ site.baseurl }}{% link what-not-to-buy.md %})
+- [Three asset types]({{ site.baseurl }}{% link asset-types.md %})
 
 This page is a planning framework. It is not a fixed-price quote and does not replace legal, security, or tax advice.
 

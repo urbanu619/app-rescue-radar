@@ -6,12 +6,12 @@ permalink: /where-to-buy/
 
 # Where to Buy Sunset Apps and Micro-SaaS (Marketplace Comparison)
 
-By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
 
 Stopped apps and small SaaS already trade on public marketplaces. The mistake is treating every site as the same inventory. Start with **asset type**, then pick the venue.
 
-Classify first: [Three asset types](asset-types.md). Diligence next: [checklist](due-diligence-checklist.md).
+Classify first: [Three asset types]({{ site.baseurl }}{% link asset-types.md %}). Diligence next: [checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %}).
 
 **Fee figures below were checked against public pricing/help pages on 2026-09-30.** Platforms change plans often — re-open the official pricing URL before you list or subscribe.
 
@@ -81,10 +81,10 @@ Classify first: [Three asset types](asset-types.md). Diligence next: [checklist]
 ## How to use marketplaces without getting farmed
 
 1. Tag every listing **A / B / C** before you open a chat.
-2. Never bid from the marketplace one-liner — use the [checklist](due-diligence-checklist.md).
+2. Never bid from the marketplace one-liner — use the [checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %}).
 3. Prefer venues that make **read-only verification** socially normal; leave venues that normalize screenshot-only deals for Type C shopping only.
-4. Model **all-in cost**: purchase + buyer subscription + escrow + [migration hours](codebase-takeover-cost.md).
-5. Low asking multiple is not a gift — read [why multiples compress](valuation-multiples.md).
+4. Model **all-in cost**: purchase + buyer subscription + escrow + [migration hours]({{ site.baseurl }}{% link codebase-takeover-cost.md %}).
+5. Low asking multiple is not a gift — read [why multiples compress]({{ site.baseurl }}{% link valuation-multiples.md %}).
 
 Official entry points also listed in research notes: Acquire, Flippa, Microns, SideProjectors, Transferslot.
 
@@ -95,7 +95,7 @@ Official entry points also listed in research notes: Acquire, Flippa, Microns, S
 Marketplace fees and inventory mix drift. If you want a periodic shortlist of **screened** sunset apps (not a firehose of listings):
 
 - Weekly radar notes: urbanu619@gmail.com
-- Deeper screening product: [App Rescue Radar](app-rescue-radar.md)
+- Deeper screening product: [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %})
 
 ---
 

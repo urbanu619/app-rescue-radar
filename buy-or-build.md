@@ -6,7 +6,7 @@ permalink: /buy-or-build/
 
 # Buy or Build: A Decision Framework for Micro Apps
 
-By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
 
 Most indie founders ask the wrong first question ("What should I build?"). The real decision is:
@@ -64,7 +64,7 @@ Before marketplaces or wireframes:
 7. After a clone of the UI, do data, workflow, or distribution still moat you?
 8. Are platform, copyright, privacy, and API risks bounded?
 
-If you cannot answer these, you are not ready to buy *or* build. Methods for finding underpriced needs: [How to find undervalued demand](undervalued-demand.md).
+If you cannot answer these, you are not ready to buy *or* build. Methods for finding underpriced needs: [How to find undervalued demand]({{ site.baseurl }}{% link undervalued-demand.md %}).
 
 ---
 
@@ -76,7 +76,7 @@ Marketplaces mix three types. Pricing them the same is how people overpay.
 - **Type B** — real distribution, weak monetization
 - **Type C** — source / "dev complete" with no proof of use
 
-Full taxonomy: [Three asset types you must not mix](asset-types.md).
+Full taxonomy: [Three asset types you must not mix]({{ site.baseurl }}{% link asset-types.md %}).
 
 **Rule of thumb**
 
@@ -84,17 +84,17 @@ Full taxonomy: [Three asset types you must not mix](asset-types.md).
 Type A + you can operate it     → consider buy
 Type B + you own the monetization fix → consider buy
 Type C                          → usually build (or buy only at rebuild cost)
-Gray / non-transferable         → walk ([exclusion list](what-not-to-buy.md))
+Gray / non-transferable         → walk ([exclusion list]({{ site.baseurl }}{% link what-not-to-buy.md %}))
 ```
 
 ---
 
 ## Step 3 — Buy path (only after classification)
 
-1. Find listings on the right marketplace for that size ([platform comparison](where-to-buy.md)).
-2. Run the [due diligence checklist](due-diligence-checklist.md) — ownership first, vanity metrics last.
-3. Price migration and code debt with [codebase takeover costs](codebase-takeover-cost.md).
-4. Treat "cheap multiples" as a risk signal until proven otherwise ([why multiples look low](valuation-multiples.md)).
+1. Find listings on the right marketplace for that size ([platform comparison]({{ site.baseurl }}{% link where-to-buy.md %})).
+2. Run the [due diligence checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %}) — ownership first, vanity metrics last.
+3. Price migration and code debt with [codebase takeover costs]({{ site.baseurl }}{% link codebase-takeover-cost.md %}).
+4. Treat "cheap multiples" as a risk signal until proven otherwise ([why multiples look low]({{ site.baseurl }}{% link valuation-multiples.md %})).
 
 Buy when: distribution or revenue is verified, title can transfer, and the broken piece is something **you** know how to fix in 90 days.
 
@@ -108,7 +108,7 @@ Build when:
 - IP, store, or data transfer will never be clean
 - You need ownership structure right from day one (entity, keys, store)
 
-Worth-building filter: [What counts as a niche App worth shipping](worth-building.md). Idea pool: [30+ niche ideas](niche-idea-pool.md).
+Worth-building filter: [What counts as a niche App worth shipping]({{ site.baseurl }}{% link worth-building.md %}). Idea pool: [30+ niche ideas]({{ site.baseurl }}{% link niche-idea-pool.md %}).
 
 Building still benefits from failure databases and complaint mining — same evidence stack as buyers use.
 
@@ -146,11 +146,11 @@ BUY / RESCUE
 
 ## Where this site goes next
 
-**Buy cluster:** [checklist](due-diligence-checklist.md) · [codebase cost](codebase-takeover-cost.md) · [exclusions](what-not-to-buy.md) · [asset types](asset-types.md) · [marketplaces](where-to-buy.md) · [multiples](valuation-multiples.md)
+**Buy cluster:** [checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %}) · [codebase cost]({{ site.baseurl }}{% link codebase-takeover-cost.md %}) · [exclusions]({{ site.baseurl }}{% link what-not-to-buy.md %}) · [asset types]({{ site.baseurl }}{% link asset-types.md %}) · [marketplaces]({{ site.baseurl }}{% link where-to-buy.md %}) · [multiples]({{ site.baseurl }}{% link valuation-multiples.md %})
 
-**Build cluster:** [worth building](worth-building.md) · [idea pool](niche-idea-pool.md) · [undervalued demand](undervalued-demand.md)
+**Build cluster:** [worth building]({{ site.baseurl }}{% link worth-building.md %}) · [idea pool]({{ site.baseurl }}{% link niche-idea-pool.md %}) · [undervalued demand]({{ site.baseurl }}{% link undervalued-demand.md %})
 
-**Help executing:** [App Rescue Radar](app-rescue-radar.md) — screening, rescue engineering, managed ops. Email: urbanu619@gmail.com
+**Help executing:** [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %}) — screening, rescue engineering, managed ops. Email: urbanu619@gmail.com
 
 ---
 

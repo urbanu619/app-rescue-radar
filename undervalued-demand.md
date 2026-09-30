@@ -6,12 +6,12 @@ permalink: /undervalued-demand/
 
 # How to Find Undervalued Demand (Before You Build or Buy)
 
-By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
 
 Undervalued demand is not “a cool idea.” It is a repeated complaint with weak supply, or a failed product whose **job** still exists.
 
-This is a research method. After you find a signal, route through [buy or build](buy-or-build.md) — many “new ideas” already have a dying listing attached.
+This is a research method. After you find a signal, route through [buy or build]({{ site.baseurl }}{% link buy-or-build.md %}) — many “new ideas” already have a dying listing attached.
 
 ---
 
@@ -56,7 +56,7 @@ Platform / legal risk
 Is something already for sale that maps to this job?
 ```
 
-If the last line is “yes,” open the [marketplace guide](where-to-buy.md) before you open Figma.
+If the last line is “yes,” open the [marketplace guide]({{ site.baseurl }}{% link where-to-buy.md %}) before you open Figma.
 
 ---
 
@@ -81,8 +81,8 @@ Strong complaint cluster
   └─ No inventory, clear MVP + channel? → build
 ```
 
-Worth-building filter (when you choose build): [ship criteria](worth-building.md).  
-Idea sparks (not validation): [idea pool](niche-idea-pool.md).
+Worth-building filter (when you choose build): [ship criteria]({{ site.baseurl }}{% link worth-building.md %}).  
+Idea sparks (not validation): [idea pool]({{ site.baseurl }}{% link niche-idea-pool.md %}).
 
 ---
 
@@ -91,7 +91,7 @@ Idea sparks (not validation): [idea pool](niche-idea-pool.md).
 - Generating ideas with no complaint URL attached
 - Treating “AI for X” as a niche without a workflow
 - Ignoring platform risk because the scrape “works today”
-- Falling in love with a cemetery story and skipping [exclusions](what-not-to-buy.md)
+- Falling in love with a cemetery story and skipping [exclusions]({{ site.baseurl }}{% link what-not-to-buy.md %})
 
 ---
 
@@ -100,9 +100,9 @@ Idea sparks (not validation): [idea pool](niche-idea-pool.md).
 If you want periodic cards already filtered for “real complaint + path hint”:
 
 - Weekly notes: urbanu619@gmail.com
-- Screening layer: [App Rescue Radar](app-rescue-radar.md)
+- Screening layer: [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %})
 
-Hub: [Buy or build](buy-or-build.md)
+Hub: [Buy or build]({{ site.baseurl }}{% link buy-or-build.md %})
 
 ---
 

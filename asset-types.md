@@ -6,7 +6,7 @@ permalink: /asset-types/
 
 # Three Asset Types You Must Not Price the Same Way
 
-By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
 
 Marketplaces mix three different things under one "SaaS for sale" headline. Mix up the type, and you will apply the wrong valuation, the wrong diligence, and the wrong post-close plan.
@@ -52,7 +52,7 @@ No. That is Type C. Treat it as software and listing experience, not as SaaS pri
 
 **Wrong move:** treating it like a source dump because the UI is ugly.
 
-**Right diligence weight:** finance + retention + transfer (full [checklist](due-diligence-checklist.md)).
+**Right diligence weight:** finance + retention + transfer (full [checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %})).
 
 ---
 
@@ -70,7 +70,7 @@ No. That is Type C. Treat it as software and listing experience, not as SaaS pri
 
 **Wrong move:** paying a business multiple for "potential" with no payers.
 
-**Right diligence weight:** distribution quality + transfer + your fix plan ([codebase cost](codebase-takeover-cost.md) only for what you will keep).
+**Right diligence weight:** distribution quality + transfer + your fix plan ([codebase cost]({{ site.baseurl }}{% link codebase-takeover-cost.md %}) only for what you will keep).
 
 ---
 
@@ -136,7 +136,7 @@ Else if verified transferable distribution → underwrite as B
 Else → underwrite as C (rebuild lens only)
 ```
 
-Then run type-appropriate diligence. Use the [exclusion list](what-not-to-buy.md) before you fall in love with the demo.
+Then run type-appropriate diligence. Use the [exclusion list]({{ site.baseurl }}{% link what-not-to-buy.md %}) before you fall in love with the demo.
 
 Multiples and "why prices look low" are a separate topic *(A6, after light verification)*. Do not borrow a multiple until the type is A and the profit is real.
 
@@ -156,9 +156,9 @@ That is a **custom build** problem:
 
 Related:
 
-- [Due diligence checklist](due-diligence-checklist.md)
-- [Cost of taking over a codebase](codebase-takeover-cost.md)
-- [What not to buy](what-not-to-buy.md)
+- [Due diligence checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %})
+- [Cost of taking over a codebase]({{ site.baseurl }}{% link codebase-takeover-cost.md %})
+- [What not to buy]({{ site.baseurl }}{% link what-not-to-buy.md %})
 
 ---
 

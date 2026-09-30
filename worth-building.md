@@ -6,12 +6,12 @@ permalink: /worth-building/
 
 # What Counts as a Niche App Worth Building
 
-By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
 
 “Niche” does not mean tiny forever or weird for its own sake. A build-worthy niche usually has a sharp user, a repeating job, and a path to charge without a social network on day one.
 
-Use this filter before you open an IDE — and before you fall in love with a marketplace zip. Hub: [buy or build](buy-or-build.md).
+Use this filter before you open an IDE — and before you fall in love with a marketplace zip. Hub: [buy or build]({{ site.baseurl }}{% link buy-or-build.md %}).
 
 ---
 
@@ -62,8 +62,8 @@ Two or more weak answers → park the idea or shrink the wedge.
 
 ## After it passes
 
-1. Check whether inventory already maps to the job ([marketplaces](where-to-buy.md)) — buy may beat build.
-2. Mine complaints with [undervalued demand methods](undervalued-demand.md).
-3. Skim the [idea pool](niche-idea-pool.md) for patterns, not for copy-paste validation.
+1. Check whether inventory already maps to the job ([marketplaces]({{ site.baseurl }}{% link where-to-buy.md %})) — buy may beat build.
+2. Mine complaints with [undervalued demand methods]({{ site.baseurl }}{% link undervalued-demand.md %}).
+3. Skim the [idea pool]({{ site.baseurl }}{% link niche-idea-pool.md %}) for patterns, not for copy-paste validation.
 
 Weekly niche signals: urbanu619@gmail.com

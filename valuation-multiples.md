@@ -6,12 +6,12 @@ permalink: /valuation-multiples/
 
 # Why Micro-SaaS Often Sells at “Only” 2–4× ARR
 
-By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
 
 A house can clear twenty-plus years of rent. A micro-SaaS clearing two to four years of recurring revenue looks “cheap” until you price what can vanish overnight.
 
-This page explains the **compression**, not a price oracle. Use it after you classify the asset ([three types](asset-types.md)).
+This page explains the **compression**, not a price oracle. Use it after you classify the asset ([three types]({{ site.baseurl }}{% link asset-types.md %})).
 
 ---
 
@@ -49,7 +49,7 @@ If the trailing profit only exists because founder labor was free, a 3× ARR sti
 
 ### 3. Title is scattered
 
-Code, domain, trademark, store account, payment entity, API keys, inbox — miss one, and you did not buy the business. That transfer risk is why diligence is not optional ([checklist](due-diligence-checklist.md)).
+Code, domain, trademark, store account, payment entity, API keys, inbox — miss one, and you did not buy the business. That transfer risk is why diligence is not optional ([checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %})).
 
 ---
 
@@ -62,7 +62,7 @@ Low headline multiple can mean:
 - Transfer will fail (personal Apple ID, non-assignable API)
 - You are accidentally pricing Type C with Type A language
 
-See also: [what not to buy](what-not-to-buy.md).
+See also: [what not to buy]({{ site.baseurl }}{% link what-not-to-buy.md %}).
 
 **Method (anonymous):** high traffic + tiny revenue → audit traffic quality and paywall before celebrating “upside.” Near-100% churn → do not average it away. Asking price near or below one year of *claimed* revenue → ask what the seller knows that the multiple is advertising.
 
@@ -100,8 +100,8 @@ If step 5 eats most of the “bargain,” there was no bargain.
 - Not advice to pay 2× or 4× on the next listing you like
 - Not a green light for cross-border deal advisory (compliance separate)
 
-For where inventory lives: [marketplace comparison](where-to-buy.md).  
-For buy-or-build routing: [decision hub](buy-or-build.md).
+For where inventory lives: [marketplace comparison]({{ site.baseurl }}{% link where-to-buy.md %}).  
+For buy-or-build routing: [decision hub]({{ site.baseurl }}{% link buy-or-build.md %}).
 
 ---
 

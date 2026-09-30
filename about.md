@@ -52,4 +52,4 @@ Reply will be scoped — or a clear no.
 
 ## Writing on this site
 
-Start here: [Buy or build](buy-or-build.md) · [Due diligence checklist](due-diligence-checklist.md) · [App Rescue Radar](app-rescue-radar.md)
+Start here: [Buy or build]({{ site.baseurl }}{% link buy-or-build.md %}) · [Due diligence checklist]({{ site.baseurl }}{% link due-diligence-checklist.md %}) · [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %})

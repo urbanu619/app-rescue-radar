@@ -6,10 +6,10 @@ permalink: /niche-idea-pool/
 
 # 30+ Niche App Ideas (Opportunity Pool, Not Validation)
 
-By **Joshua Chen** · [About / experience](about.md) · urbanu619@gmail.com
+By **Joshua Chen** · [About / experience]({{ site.baseurl }}{% link about.md %}) · urbanu619@gmail.com
 
 
-These are **wedges to investigate**, not market-proven winners. For each idea: run the [worth-building filter](worth-building.md), then [buy or build](buy-or-build.md) — someone may already be selling a weak version.
+These are **wedges to investigate**, not market-proven winners. For each idea: run the [worth-building filter]({{ site.baseurl }}{% link worth-building.md %}), then [buy or build]({{ site.baseurl }}{% link buy-or-build.md %}) — someone may already be selling a weak version.
 
 ---
 
@@ -71,11 +71,11 @@ Ship **one sharp front door**, not a vague “life OS.”
 ## How to use this list
 
 1. Pick one row that matches a channel you already reach.
-2. Attach real complaint URLs ([demand methods](undervalued-demand.md)).
-3. Search marketplaces for a weak Type A/B before you scaffold ([where to buy](where-to-buy.md)).
-4. Decide with [buy or build](buy-or-build.md).
+2. Attach real complaint URLs ([demand methods]({{ site.baseurl }}{% link undervalued-demand.md %})).
+3. Search marketplaces for a weak Type A/B before you scaffold ([where to buy]({{ site.baseurl }}{% link where-to-buy.md %})).
+4. Decide with [buy or build]({{ site.baseurl }}{% link buy-or-build.md %}).
 
-Weekly filtered ideas: urbanu619@gmail.com · Execution help: [App Rescue Radar](app-rescue-radar.md)
+Weekly filtered ideas: urbanu619@gmail.com · Execution help: [App Rescue Radar]({{ site.baseurl }}{% link app-rescue-radar.md %})
 
 ---
 
